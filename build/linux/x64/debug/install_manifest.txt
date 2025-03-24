@@ -1,0 +1,15 @@
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/yesnoapp
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/alberto/AndroidFlutter/yesnoapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
